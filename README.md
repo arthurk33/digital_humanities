@@ -1,1 +1,1 @@
-# web_development_tutorial
+# Digital Humanities Course Repository
